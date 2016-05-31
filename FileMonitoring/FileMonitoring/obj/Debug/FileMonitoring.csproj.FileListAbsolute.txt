@@ -1,0 +1,6 @@
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\bin\Debug\FileMonitoring.exe.config
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\bin\Debug\FileMonitoring.exe
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\bin\Debug\FileMonitoring.pdb
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\obj\Debug\FileMonitoring.csprojResolveAssemblyReference.cache
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\obj\Debug\FileMonitoring.exe
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\obj\Debug\FileMonitoring.pdb

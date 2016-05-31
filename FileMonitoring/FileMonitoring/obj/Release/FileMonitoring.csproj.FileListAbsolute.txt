@@ -1,0 +1,5 @@
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\bin\Release\FileMonitoring.exe.config
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\bin\Release\FileMonitoring.exe
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\bin\Release\FileMonitoring.pdb
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\obj\Release\FileMonitoring.exe
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\FileMonitoring\FileMonitoring\obj\Release\FileMonitoring.pdb

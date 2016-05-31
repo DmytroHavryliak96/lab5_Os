@@ -1,0 +1,9 @@
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\bin\Debug\MyFirstSnapIn.dll
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\bin\Debug\MyFirstSnapIn.pdb
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\bin\Debug\Microsoft.ManagementConsole.dll
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\obj\Debug\MyFirstSnapIn.csprojResolveAssemblyReference.cache
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\obj\Debug\MyFirstSnapIn.InitializeWizard.resources
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\obj\Debug\MyFirstSnapIn.Properties.Resources.resources
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\obj\Debug\MyFirstSnapIn.csproj.GenerateResource.Cache
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\obj\Debug\MyFirstSnapIn.dll
+D:\Навчання\другий курс\другий семестр\Операційні системи\Лабораторні роботи\Лабораторна 5\lab5\MyFirstSnapIn\MyFirstSnapIn\obj\Debug\MyFirstSnapIn.pdb
